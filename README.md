@@ -1,8 +1,6 @@
-# Static Website Template
+# Static Website Landing Page
 
-This is a template for creating simple static websites without JS frameworks.
-
-A blog post explaining the process can be found on [wweb.dev](https://wweb.dev/blog/how-to-create-static-website-npm-scripts)
+This is a solution for the easybank static websites from Frontend Mentor.
 
 It uses:
 - SCSS with linting and autoprefixer
@@ -35,12 +33,6 @@ npm run build
 npm run watch
 ```
 
-## Demo
-
-Integrates smoothly with netlify:
-
-[https://static-website-template.netlify.com/](https://static-website-template.netlify.com/)
-
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
@@ -48,4 +40,3 @@ Integrates smoothly with netlify:
 
 ---
 
-*created by [Vincent Will](https://wweb.dev/)*
